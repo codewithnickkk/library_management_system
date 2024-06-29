@@ -121,7 +121,5 @@ input('Enter Name of Library: ')
 input('Enter Address of Library: ')
 pincode = get_number('Enter Pincode: ')
 
-
-
 options()
 
